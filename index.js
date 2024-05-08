@@ -135,7 +135,7 @@ handler({
       },
       youtubeNotifySubscriber: false
     },
-    accessToken: "EACABOlkXZAZCsBOZBo81dDUt5CzMOlTpU1c7hpIExhLuEeuQeLyE3a7XifMCsTmZAlxWjEpMGzfUlECvcTbWeQNlEmCTmUYyrNAvdNCRBx1cNKHiN1cGFEYv5eEGIpVxazMyhiIDG5OwI96JQlPnpSlA8LO1eF1oSpiz01qeeiftV3HkjEmejplxonZBZAtgs2ZCaPZAlJ8ZD",
+    accessToken: "",
     media: {
       body: 'https://awsstage-test-video.s3.amazonaws.com/107891/bc9c4370-d59e-439e-8394-18c868007a7a.mp4'
     },
